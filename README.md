@@ -27,3 +27,19 @@ Contoh pesan eror dengan menghilangkan titik koma di akhir kode
 ![5](https://user-images.githubusercontent.com/81844622/122566854-3d67e400-d072-11eb-9ad9-b855d5678844.jpg)
 
 ![6](https://user-images.githubusercontent.com/81844622/122566897-4789e280-d072-11eb-8113-224b394a72b9.jpg)
+
+# Langkah 5
+
+Mengecek route dan menambahkan route baru
+
+![7 - mengecek route](https://user-images.githubusercontent.com/81844622/122567124-8a4bba80-d072-11eb-921d-ef5a81da7683.jpg)
+
+![8](https://user-images.githubusercontent.com/81844622/122567429-d8f95480-d072-11eb-8878-e3a78c030d49.jpg)
+
+# Langkah 6
+
+Mengakses route dengan url localhost/about karena server apache saya mengggunakan kode 80 maka tidak dituliskan localhost:8080/about
+
+![8 5](https://user-images.githubusercontent.com/81844622/122567677-1cec5980-d073-11eb-9921-2c7ed4799bcf.jpg)
+
+
