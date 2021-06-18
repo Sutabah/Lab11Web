@@ -30,7 +30,7 @@ Contoh pesan eror dengan menghilangkan titik koma di akhir kode
 
 # Langkah 5
 
-Mengecek route dan menambahkan route baru
+Mengecek route, menambahkan controller baru dan menambahkan route baru
 
 ![7 - mengecek route](https://user-images.githubusercontent.com/81844622/122567124-8a4bba80-d072-11eb-921d-ef5a81da7683.jpg)
 
@@ -41,5 +41,11 @@ Mengecek route dan menambahkan route baru
 Mengakses route dengan url localhost/about karena server apache saya mengggunakan kode 80 maka tidak dituliskan localhost:8080/about
 
 ![8 5](https://user-images.githubusercontent.com/81844622/122567677-1cec5980-d073-11eb-9921-2c7ed4799bcf.jpg)
+
+# Langkah 7
+
+Mengaktifkan auto rooting dengan mengubah setAutoRoute(true)
+
+![9](https://user-images.githubusercontent.com/81844622/122567962-6f2d7a80-d073-11eb-8917-45e8383827f1.jpg)
 
 
