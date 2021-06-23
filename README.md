@@ -128,3 +128,21 @@ Membuat controller artikel baru dengan nama admin_index
 Membuat view untuk tampilan admin dengan nama admin_index.php
 
 ![11](https://user-images.githubusercontent.com/81844622/123047022-fa699000-d426-11eb-860a-05b8ea38639c.jpg)
+
+# Langkah 21 
+
+Menambahkan routing baru untuk menu admin
+
+![12](https://user-images.githubusercontent.com/81844622/123047125-1f5e0300-d427-11eb-9ed0-28fa73a411aa.jpg)
+
+# Langkah 22
+
+Menambahkan method baru pada controller artikel dengan nama add()
+
+![13](https://user-images.githubusercontent.com/81844622/123047284-546a5580-d427-11eb-8a93-d4cd45062482.jpg)
+
+# Langkah 23
+
+membuat view untuk form tambah dengan nama form_add.php
+
+![14](https://user-images.githubusercontent.com/81844622/123047555-9eebd200-d427-11eb-9672-9359d1b9afd1.jpg)
