@@ -99,4 +99,15 @@ Selanjutnya buka localhost/artikel maka akan tampil seperti ini
 
 ![6](https://user-images.githubusercontent.com/81844622/123044822-63033d80-d424-11eb-9135-af9560305228.jpg)
 
+# Langkah 16
+
+Membuat tampilan detail artikel dengan menambahkan controller baru dengan view()
+
+![7](https://user-images.githubusercontent.com/81844622/123046255-16206680-d426-11eb-99cf-4f5b52e48e44.jpg)
+
+# Langkah 17
+
+Membuat view detail dengan cara membuat file baru di direktori app/view/artikel/detail.php
+
+![8](https://user-images.githubusercontent.com/81844622/123046471-55e74e00-d426-11eb-994a-8a4ea67fd049.jpg)
 
