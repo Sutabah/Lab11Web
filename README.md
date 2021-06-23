@@ -74,3 +74,29 @@ Membuat database baru dan membuat tabel
 Mengkonfigurasi koneksi database, disini kita akan mengkonfigurasi file .env
 
 ![2](https://user-images.githubusercontent.com/81844622/123042745-7660d980-d421-11eb-9f2c-b1b117bb1165.jpg)
+
+# Langkah 12
+
+Membuat model untuk memproses data artikel
+
+![3](https://user-images.githubusercontent.com/81844622/123044481-ebcda980-d423-11eb-8e2f-58bcde17ee6b.jpg)
+
+# Langkah 13
+
+Membuat controller baru dengan nama artikel.php
+
+![4](https://user-images.githubusercontent.com/81844622/123044567-0bfd6880-d424-11eb-9a36-414b2d31b692.jpg)
+
+# Langkah 14
+
+Membuat view baru dengan nama artikel pada direktori app/view
+
+![5](https://user-images.githubusercontent.com/81844622/123044717-3f3ff780-d424-11eb-864e-401be1a09717.jpg)
+
+# Langkah 15
+
+Selanjutnya buka localhost/artikel maka akan tampil seperti ini
+
+![6](https://user-images.githubusercontent.com/81844622/123044822-63033d80-d424-11eb-9135-af9560305228.jpg)
+
+
