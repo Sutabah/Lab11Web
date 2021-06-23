@@ -110,4 +110,21 @@ Membuat tampilan detail artikel dengan menambahkan controller baru dengan view()
 Membuat view detail dengan cara membuat file baru di direktori app/view/artikel/detail.php
 
 ![8](https://user-images.githubusercontent.com/81844622/123046471-55e74e00-d426-11eb-994a-8a4ea67fd049.jpg)
+ 
+ # Langkah 18 
+ 
+ Membuat rooting untuk artikel detail
+ 
+ ![9](https://user-images.githubusercontent.com/81844622/123046632-88914680-d426-11eb-9b0b-514eb7d7e0f6.jpg)
 
+# Langkah 19
+
+Membuat controller artikel baru dengan nama admin_index
+
+![10](https://user-images.githubusercontent.com/81844622/123046928-e02fb200-d426-11eb-8f14-538fd9217a5a.jpg)
+
+# Langkah 20
+
+Membuat view untuk tampilan admin dengan nama admin_index.php
+
+![11](https://user-images.githubusercontent.com/81844622/123047022-fa699000-d426-11eb-860a-05b8ea38639c.jpg)
