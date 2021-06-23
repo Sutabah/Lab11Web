@@ -61,6 +61,16 @@ Menambahkan layout web dengan menggunakan css disini kita akan menggunakan css d
 ![11](https://user-images.githubusercontent.com/81844622/122568350-dba87980-d073-11eb-939a-c658bfef3a92.jpg)
 
 
+# Lanjutan
 
+# Langkah 10
 
+Membuat database baru dan membuat tabel
 
+![1](https://user-images.githubusercontent.com/81844622/123042606-46193b00-d421-11eb-9347-6980eb9103eb.jpg)
+
+# Langkah 11
+
+Mengkonfigurasi koneksi database, disini kita akan mengkonfigurasi file .env
+
+![2](https://user-images.githubusercontent.com/81844622/123042745-7660d980-d421-11eb-9f2c-b1b117bb1165.jpg)
