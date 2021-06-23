@@ -146,3 +146,21 @@ Menambahkan method baru pada controller artikel dengan nama add()
 membuat view untuk form tambah dengan nama form_add.php
 
 ![14](https://user-images.githubusercontent.com/81844622/123047555-9eebd200-d427-11eb-9672-9359d1b9afd1.jpg)
+
+# Langkah 24
+
+Menambahkan method baru pada controller artikel dengan nama edit()
+
+![15](https://user-images.githubusercontent.com/81844622/123049746-1a4e8300-d42a-11eb-8f1d-217a42688357.jpg)
+
+# Langkah 25
+
+Membuat view untuk membuat form tambah dengan nama form_edit.php
+
+![16](https://user-images.githubusercontent.com/81844622/123049897-44a04080-d42a-11eb-9d9e-6989be72993a.jpg)
+
+# Langkah 26
+
+Menghapus data dengan menambahkan method baru pada controller artikel dengan nama detele()
+
+![17](https://user-images.githubusercontent.com/81844622/123050047-73b6b200-d42a-11eb-96eb-1e28283667bc.jpg)
