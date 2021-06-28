@@ -61,7 +61,7 @@ Menambahkan layout web dengan menggunakan css disini kita akan menggunakan css d
 ![11](https://user-images.githubusercontent.com/81844622/122568350-dba87980-d073-11eb-939a-c658bfef3a92.jpg)
 
 
-# Lanjutan
+# Lanjutan / Pratikum 12
 
 # Langkah 10
 
@@ -164,3 +164,5 @@ Membuat view untuk membuat form tambah dengan nama form_edit.php
 Menghapus data dengan menambahkan method baru pada controller artikel dengan nama detele()
 
 ![17](https://user-images.githubusercontent.com/81844622/123050047-73b6b200-d42a-11eb-96eb-1e28283667bc.jpg)
+
+# Lanjutan / Pratikum 13
