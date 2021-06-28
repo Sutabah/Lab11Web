@@ -61,7 +61,12 @@ Menambahkan layout web dengan menggunakan css disini kita akan menggunakan css d
 ![11](https://user-images.githubusercontent.com/81844622/122568350-dba87980-d073-11eb-939a-c658bfef3a92.jpg)
 
 
+
+
 # Lanjutan / Pratikum 12
+
+
+
 
 # Langkah 10
 
@@ -165,7 +170,13 @@ Menghapus data dengan menambahkan method baru pada controller artikel dengan nam
 
 ![17](https://user-images.githubusercontent.com/81844622/123050047-73b6b200-d42a-11eb-96eb-1e28283667bc.jpg)
 
+
+
+
 # Lanjutan / Pratikum 13
+
+
+
 
 # Langkah 27 
 
@@ -184,3 +195,21 @@ Membuat user model baru pada direktori app/models dengan nama user model.php
 Membuat controller baru dengan nama user.php pada direktori app/controller kemudian menambahkan method index() dan login ()
 
 ![3](https://user-images.githubusercontent.com/81844622/123641847-e53c9900-d84c-11eb-8612-b3f8216f93cc.jpg)
+
+# Langkah 30
+
+Membuat view login dengan cara membuat direktori baru dengan nama user pada direktori app/views kemudian buat file baru dengan nama login.php
+
+![4](https://user-images.githubusercontent.com/81844622/123642335-5ed48700-d84d-11eb-87b9-f1a99f2ae4bc.jpg)
+
+# Langkah 31
+
+Membuat database seeder dengan Membuka CLI
+
+![5](https://user-images.githubusercontent.com/81844622/123642457-83c8fa00-d84d-11eb-8130-9e60fa15cf62.jpg)
+
+# Langkah 32
+
+Selanjutnya buka file userseeder.php pada direktori app/database/seeds kemudian tambahkan kode ini
+
+![6](https://user-images.githubusercontent.com/81844622/123642667-c2f74b00-d84d-11eb-9aff-4dcd7572e293.jpg)
