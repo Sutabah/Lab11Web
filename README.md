@@ -166,3 +166,21 @@ Menghapus data dengan menambahkan method baru pada controller artikel dengan nam
 ![17](https://user-images.githubusercontent.com/81844622/123050047-73b6b200-d42a-11eb-96eb-1e28283667bc.jpg)
 
 # Lanjutan / Pratikum 13
+
+# Langkah 27 
+
+Membuat database baru untuk user login
+
+![1](https://user-images.githubusercontent.com/81844622/123641460-7d864e00-d84c-11eb-9b85-a33e62beda17.jpg)
+
+# Langkah 28
+
+Membuat user model baru pada direktori app/models dengan nama user model.php
+
+![2](https://user-images.githubusercontent.com/81844622/123641631-a73f7500-d84c-11eb-80ca-df11a0c7bcb3.jpg)
+
+# Langkah 29
+
+Membuat controller baru dengan nama user.php pada direktori app/controller kemudian menambahkan method index() dan login ()
+
+![3](https://user-images.githubusercontent.com/81844622/123641847-e53c9900-d84c-11eb-8612-b3f8216f93cc.jpg)
