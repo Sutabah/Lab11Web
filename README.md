@@ -213,3 +213,21 @@ Membuat database seeder dengan Membuka CLI
 Selanjutnya buka file userseeder.php pada direktori app/database/seeds kemudian tambahkan kode ini
 
 ![6](https://user-images.githubusercontent.com/81844622/123642667-c2f74b00-d84d-11eb-9aff-4dcd7572e293.jpg)
+
+# Langkah 33
+
+Menambahkan auth filter dengan cara membuat file baru dengan nama auth.php pada direktori app/filters
+
+![7](https://user-images.githubusercontent.com/81844622/123642928-0d78c780-d84e-11eb-81d1-7274d434005c.jpg)
+
+# Langkah 34
+
+Selanjutnya buka file filters pada direktori app/config kemudian tambahkan 'code auth' => App\Filters\Auth::class
+
+![8](https://user-images.githubusercontent.com/81844622/123643165-503a9f80-d84e-11eb-87e2-9b3f88bfdbfb.jpg)
+
+# Langkah 35
+
+Buka file routes.php dan menyesuaikan codenya 
+
+![9](https://user-images.githubusercontent.com/81844622/123643295-706a5e80-d84e-11eb-97b2-3c3eef11b154.jpg)
