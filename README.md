@@ -246,3 +246,14 @@ Membuat pencarian mengubah method admin_index pada controller artikel
 
 ![2](https://user-images.githubusercontent.com/81844622/125076377-0b362900-e0ea-11eb-8905-94e7fd85fa1e.jpg)
 
+# Langkah 38
+
+Selanjutnya buka file admin_index.php pada direktori view/artikel lalu tambahkan  form pencarian
+
+![3](https://user-images.githubusercontent.com/81844622/125076674-66681b80-e0ea-11eb-9f57-2e92285867a8.jpg)
+
+# Langkah 39
+
+Mengupload gambar dengan menyesuaikan method add pada controller artikel
+
+![4](https://user-images.githubusercontent.com/81844622/125077165-fd34d800-e0ea-11eb-8c85-8ce3a52dc541.jpg)
