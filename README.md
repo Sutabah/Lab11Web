@@ -231,3 +231,18 @@ Selanjutnya buka file filters pada direktori app/config kemudian tambahkan 'code
 Buka file routes.php dan menyesuaikan codenya 
 
 ![9](https://user-images.githubusercontent.com/81844622/123643295-706a5e80-d84e-11eb-97b2-3c3eef11b154.jpg)
+
+# Lanjutan / Pratikum 14
+
+# Langkah 36
+
+Membuat pagination dengan mengedit method index pada controller artikel
+
+![1](https://user-images.githubusercontent.com/81844622/125076058-a37fde00-e0e9-11eb-8f6f-9b3566003e9c.jpg)
+
+# Langkah 37
+
+Membuat pencarian mengubah method admin_index pada controller artikel
+
+![2](https://user-images.githubusercontent.com/81844622/125076377-0b362900-e0ea-11eb-8905-94e7fd85fa1e.jpg)
+
